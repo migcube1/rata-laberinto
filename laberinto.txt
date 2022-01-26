@@ -1,0 +1,25 @@
+(24,19)
+XXXXXXXXXXXXXXXXXXX
+X X X X  X   X    X
+X     XX   X X XX X
+XXAXX X XX X    X X
+X   X X    XXXX XXX
+X X X XX XX X X   X
+X X       X X   X X
+X X XXFXX    XX   X
+X XXX   XXXX  L X X
+X   X X XX XX XX  X
+X X             XXX
+X XXX XX  XXXXX   X
+X       X      XXLX
+XXGX XXXXX XX X   X
+X   XX   X XXX XX X
+X X    X   X   A  X
+X XXXXXXXXXX X XXXX
+X      X XX      XX
+XX X X X    XXGX XX
+X  XXX XXXX    X  X
+X X X     A  XX  XX
+X X XXX XXXXXX X XX
+X   F      X      X
+XXXXXXXXXXXXXXXXXXX
